@@ -8,3 +8,4 @@
             Console.WriteLine(new string('#', i + 1).PadLeft(n, ' '));
         }
 }
+
